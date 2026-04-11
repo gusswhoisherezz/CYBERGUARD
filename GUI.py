@@ -92,6 +92,7 @@ class MainWindow(QMainWindow):
 
     def play_sound(self):
         self.sound.play()
+        #tesssssssssssssst
 
 #لغرض تجربة و اظهار الواجهة
 if __name__ == "__main__":
